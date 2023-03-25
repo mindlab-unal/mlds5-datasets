@@ -1,2 +1,2 @@
 # mlds5-datasets
-Datasets used in MLDS5
+Conjuntos de datos públicos usados en el módulo 5 del programa de formación en Machine Learning and Data Science.
